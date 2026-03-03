@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineering intern with expertise in C/C++, observability tools, and <br>dashboard creation. Experienced in building real-time applications, optimizing <br>workflows, and delivering measurable improvements in monitoring and visualization. 
+Software engineering with expertise in C/C++, observability tools, and <br>dashboard creation. Experienced in building real-time applications, optimizing <br>workflows, and delivering measurable improvements in monitoring and visualization. 
 
 
 ## 🌐 Socials:
